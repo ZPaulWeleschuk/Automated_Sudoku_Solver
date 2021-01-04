@@ -12,7 +12,7 @@ work on https://www.websudoku.com/
 
 Author: Zennon Paul Weleschuk
 
-![gif of program solving sudoku](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/sodukoGif.gif "Figure 1: GIF of program entering the solution into the sudoku on the website")<br/>Figure 1: GIF of program entering the solution into the sudoku on the website<br/><br/><br/>
-![image detection of blank and numbered cells](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/visionOutput.PNG)![number detected on nefw sudoku](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/numbersFound.PNG)<br/>Figure 2: Image recognition of blank and numbered cells<br/><br/><br/>
-![starting matrix and solution](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/sudokuMatrix.PNG "Figure 3: Starting matrix and solution)
+![gif of program solving sudoku](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/sodukoGif.gif "Figure 1: GIF of program entering the solution into the sudoku on the website")<br/>Figure 1: GIF of program entering the solution into the sudoku on the website<br/><br/>
+![image detection of blank and numbered cells](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/visionOutput.PNG)![number detected on nefw sudoku](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/numbersFound.PNG)<br/>Figure 2: Image recognition of blank and numbered cells<br/><br/>
+![starting matrix and solution](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/sudokuMatrixs.PNG "Figure 3: Starting matrix and solution)
 <br/>Figure 3: Starting matrix and solution
