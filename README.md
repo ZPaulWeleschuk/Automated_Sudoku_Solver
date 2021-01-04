@@ -12,4 +12,4 @@ work on https://www.websudoku.com/
 
 Author: Zennon Paul Weleschuk
 
-![gif of program solving sudoku](demos/sudokuGif.gif)
+![gif of program solving sudoku](main/demos/sudokuGif.gif)
