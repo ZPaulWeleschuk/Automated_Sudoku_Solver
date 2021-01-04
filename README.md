@@ -12,7 +12,7 @@ work on https://www.websudoku.com/
 
 Author: Zennon Paul Weleschuk
 
-![gif of program solving sudoku](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/sodukoGif.gif){{< caption >}}Figure 1: GIF of program entering the solution into the sudoku on the website{{< /caption >}}
+![gif of program solving sudoku](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/sodukoGif.gif){{<caption>}}Figure 1: GIF of program entering the solution into the sudoku on the website{{</caption>}}
 
 ![image detection of blank and numbered cells](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/visionOutput.PNG)![number detected on nefw sudoku](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/numbersFound.PNG)
 
