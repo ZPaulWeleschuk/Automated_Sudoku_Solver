@@ -132,13 +132,13 @@ def printMatrix(matrix):
     for y in range(len(matrix)):
         print(" ")
         for x in range(len(matrix)):
-            print(matrix[y][x].originalValue, end=" ")
+            print(matrix[y][x].originalValue, end="  ")
     print("\nStarting Sudoku Grid")
     print(" ")
     for y in range(len(matrix)):
         print(" ")
         for x in range(len(matrix)):
-            print(matrix[y][x].newValue, end=" ")
+            print(matrix[y][x].newValue, end="  ")
     print("\nSolved Sudoku Grid")
 
 
