@@ -16,3 +16,13 @@ Author: Z. Paul Weleschuk
 ![image detection of blank and numbered cells](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/visionOutput.PNG)![number detected on nefw sudoku](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/numbersFound.PNG)<br/>Figure 2: Image recognition of blank and numbered cells<br/><br/>
 ![starting matrix and solution](https://github.com/ZennonWeleschuk/Automated_Sudoku_Solver/blob/main/demos/sudokuMatrixs.PNG "Figure 3: Starting matrix and solution")
 <br/>Figure 3: Starting matrix and solution
+
+# Complete code walk through presentation
+PDF [Simplified Guide to Computer Vision: Sodoku Solver](https://github.com/ZPaulWeleschuk/Automated_Sudoku_Solver/raw/main/demos/ZPWeleschuk_OpenCV_SudokuSolver.pdf)
+
+
+![pdf guide](https://github.com/ZPaulWeleschuk/Automated_Sudoku_Solver/blob/main/demos/ZPW-OpenCV-SudokuSolver-TitlePage.PNG)
+
+
+# Accompanying video walk through
+[Watch video here](https://www.youtube.com/watch?v=CXCErJgHIHg)
